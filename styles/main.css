@@ -1,0 +1,7 @@
+main {
+    flex: 1;
+    background-image: url(/images/home-img1.jpg);
+    background-size: cover;
+    /* background-position: bottom left; */
+    padding: 100px;
+}
